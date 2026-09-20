@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "MDM-WAD18 Scientific Validation Capsule"
+version: "1.0.0"
+date-released: 2026-09-20
+authors:
+  - family-names: Russell
+    given-names: Michael Aaron
+license: MIT
+type: software
+abstract: >
+  Deterministic WAD-18 scientific validation capsule for testing
+  multidimensional MDM state decomposition, dependence, ablation,
+  metric conditioning, leakage, and falsification.
