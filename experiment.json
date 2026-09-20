@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "samples": 256,
+  "agent_dimensions": 13,
+  "structural_dimensions": 27,
+  "target_horizon": 1,
+  "signal_scale": 100000000000000000,
+  "noise_scale": 10000000000000000
+}
