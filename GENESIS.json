@@ -1,0 +1,12 @@
+{
+  "capsule": "MDM-WAD18-Scientific-Validation-Capsule",
+  "genesis_version": "1.0.0",
+  "scale": 1000000000000000000,
+  "dimensions": 40,
+  "agent_dimensions": 13,
+  "structural_dimensions": 27,
+  "seed": 42,
+  "rounding": "HALF_AWAY_FROM_ZERO",
+  "overflow": "PYTHON_ARBITRARY_PRECISION",
+  "normative_rule": "NO_FLOATING_POINT"
+}
