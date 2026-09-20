@@ -1,0 +1,19 @@
+{
+  "name": "MDM-WAD18-Scientific-Validation-Capsule",
+  "version": "1.0.0",
+  "arithmetic": "WAD-18",
+  "floating_point_normative": false,
+  "dimensions": {
+    "agent": 13,
+    "structural": 27,
+    "combined": 40
+  },
+  "experiments": [
+    "NULL",
+    "SIGNAL_13",
+    "SIGNAL_27",
+    "INTERACTION_13_27"
+  ],
+  "deterministic_seed": 42,
+  "real_market_data": false
+}
