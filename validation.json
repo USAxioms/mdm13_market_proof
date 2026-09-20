@@ -1,0 +1,8 @@
+{
+  "projection_floor": 1000000000000000000,
+  "leakage_fail": true,
+  "determinism_required": true,
+  "synthetic_recovery_required": true,
+  "independent_replication": "PENDING",
+  "empirical_validation": "PENDING"
+}

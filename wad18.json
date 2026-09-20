@@ -1,0 +1,7 @@
+{
+  "scale": 1000000000000000000,
+  "decimals": 18,
+  "rounding": "HALF_AWAY_FROM_ZERO",
+  "zero": 0,
+  "one": 1000000000000000000
+}
